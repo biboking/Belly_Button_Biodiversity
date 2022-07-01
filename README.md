@@ -12,7 +12,10 @@ https://biboking.github.io/Belly_Button_Biodiversity/
 - The guage on the top right shows how often a subject needs to clean his belly button.
 - The bubble chart on the bottom is a glance of the overall bacteria sample culture of each subject. Hovering on it will also show the sample labels.
 
+#### The webpage when hoving on the bar-chart
+
 ![BBB956](static/images/BBB956.png)
 
+#### The webpage when hoving on the bubble-chart
 
 ![BBB956_2](static/images/BBB956_2.png)
